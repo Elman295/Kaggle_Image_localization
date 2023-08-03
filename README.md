@@ -19,11 +19,16 @@ Including images and its corresponding .xml files. Before drawing bounding boxes
 # model :
 
 ResNet 18
+
 Total params: 11,243,335
+
 Trainable params: 11,243,335
 
+
 Input size (MB): 14.05
+
 Forward/backward pass size (MB): 1576.43
+
 Params size (MB): 42.89
 
 
