@@ -1,11 +1,13 @@
 # Kaggle_Image_localization
 
 
-#`Dataset`
+`Dataset`
 
-source = https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset
+# source = https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset
 
-Description : 
+---
+
+#Description : 
 
 Including images and its corresponding .xml files. Before drawing bounding boxes, all images were resized to (227,227,3).
 3 categories: Cucumber, Eggplant, Mushroom.
