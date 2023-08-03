@@ -14,6 +14,9 @@ Including images and its corresponding .xml files. Before drawing bounding boxes
 
 ![download](https://github.com/Elman295/Kaggle_Image_localization/assets/77393687/1d1de2ea-857e-4ee3-ba4f-b94b49ef0571)
 
+
+![__results___5_0](https://github.com/Elman295/Kaggle_Image_localization/assets/77393687/1b5e3c59-d01a-4070-9093-0fdbcbcba682)
+
 ---
 
 # model :
@@ -59,7 +62,8 @@ dataset sample :
 
 My model result :
 
-![Capture](https://github.com/Elman295/Kaggle_Image_localization/assets/77393687/09cd8fae-5bcc-49e2-bc02-8326015b8042)
+![Capture](https://github.com/Elman295/Kaggle_Image_localization/assets/77393687/a854a702-862f-43da-86e0-11a459b354fa)
+
 
 
 
